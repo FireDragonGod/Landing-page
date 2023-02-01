@@ -107,6 +107,7 @@ img {
 .boxes {
     display: flex;
     justify-content: space-around;
+    padding: 36px 0 62px 0;
 }
 
 .subtext p {
@@ -121,3 +122,5 @@ img {
     height: 200px;
     width: 200px;
 }
+
+/*  */
