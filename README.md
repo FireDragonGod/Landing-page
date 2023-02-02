@@ -10,4 +10,4 @@ The skills I demonstrated here are structuring HTML elements, linking them to CS
 - Jose Espinal https://www.instagram.com/sdq_irl_/
 
 I used their coffee content for this project.
-If you want to know what images I used and where they are feel free to search them on Pexels and Unsplash there your will see amazing images.
+If you want to know what images I used and where they are feel free to search them on Pexels and Unsplash there you will see amazing images.
