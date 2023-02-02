@@ -106,13 +106,16 @@ img {
 
 .boxes {
     display: flex;
+    flex: 1;
     justify-content: space-around;
     padding: 36px 0 62px 0;
+    align-items: center;
 }
 
 .subtext p {
     width: 200px;
     color: #1f2937;
+    text-align: center;
 }
 
 .box-img > img {
@@ -126,18 +129,22 @@ img {
 /* main quote */
 
 .main-quote {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
     background-color: #e5e7eb;
     font-size: 36px;
     padding: 24px 36px;
     color: #1f2937;
 }
 
-.main-quote div {
+.author {
     text-align: end;
     font-size: 24px;
     font-weight: 700;
 }
-
 /* call to action */
 .main-calltoact {
     padding: 62px 36px;
