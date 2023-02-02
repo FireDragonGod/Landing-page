@@ -128,8 +128,8 @@ img {
 .main-quote {
     background-color: #e5e7eb;
     font-size: 36px;
-    font-weight: lighter;
     padding: 24px 36px;
+    color: #1f2937;
 }
 
 .main-quote div {
@@ -165,4 +165,14 @@ img {
     color: #f9faf8;
     font-weight: 900;
     font-size: 16px;
+}
+
+/* footer */
+
+.footer {
+    height: 70px;
+    display: flex;
+    color: #f9faf8;
+    align-items: center;
+    justify-content: center;
 }
