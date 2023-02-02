@@ -102,7 +102,7 @@ img {
     display: flex;
     flex: 1;
     justify-content: space-around;
-    padding: 62px 36px;
+    padding: 0 62px 36px;
     align-items: center;
 }
 
