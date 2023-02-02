@@ -85,7 +85,7 @@ a {
 
 img {
     height: 100%;
-    width: 300px;
+    width: 400px;
 }
 
 /* Main */
@@ -128,7 +128,7 @@ img {
 .main-quote {
     background-color: #e5e7eb;
     font-size: 36px;
-    font-weight: light;
+    font-weight: lighter;
     padding: 24px 36px;
 }
 
@@ -136,4 +136,33 @@ img {
     text-align: end;
     font-size: 24px;
     font-weight: 700;
+}
+
+/* call to action */
+.main-calltoact {
+    padding: 62px 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+}
+
+.calltoact {
+    padding: 36px 68px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    color: #f9faf8;
+}
+
+.signup-button button {
+    padding: 8px 28px;
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 16px;
 }
